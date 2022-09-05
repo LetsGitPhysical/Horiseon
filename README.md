@@ -1,7 +1,5 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-
-
 ## User Story
 
 ```
@@ -26,13 +24,13 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+```
 These were the main design flaws I fixed in the original starter code:
-(./assets/images/flaws/nav_bug1.png)
-(./assets/images/flaws/nav_bug2.png)
-(./assets/images/flaws/body_bug1.png)
-(./assets/images/flaws/body_bug2.png)
-(./assets/images/flaws/body_bug3.png)
-
+![Orig Design Flaws](./assets/images/flaws/nav_bug1.png)
+![Orig Design Flaws](./assets/images/flaws/nav_bug2.png)
+![Orig Design Flaws](./assets/images/flaws/body_bug1.png)
+![Orig Design Flaws](./assets/images/flaws/body_bug2.png)
+![Orig Design Flaws](./assets/images/flaws/body_bug3.png)
 ```
 
 ## Review
